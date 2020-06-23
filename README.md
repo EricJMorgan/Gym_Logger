@@ -1,4 +1,4 @@
-# Gym_Logger
+# Gym Logger
 ### Overview
 This app was created to experiement with SwiftUI. There are no plans to ever complete the application as it is just a testing grounds for what the framework is capable of.
 ### Description
